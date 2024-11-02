@@ -6,7 +6,7 @@
 
 **Port:** 80 (http) and 8000
 
-**Websites:**
+**Endpoints:**
  http://3.110.156.207/
 OR 
  http://ec2-3-110-156-207.ap-south-1.compute.amazonaws.com/
